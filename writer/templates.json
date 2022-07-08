@@ -1,0 +1,759 @@
+{
+    "www.vinmec.com": {
+        "article": {
+            "selector": "div.detail-body h2, div.detail-body div.rich-text p, div.detail-body div.rich-text ul",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.detail-body h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.detail-body div.rich-text p, div.detail-body div.rich-text ul",
+            "class": "rich-text"
+        }
+    },
+    "dienmaycholon.vn": {
+        "article": {
+            "selector": "div.content_article h3, div.content_article p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.content_article h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.content_article p",
+            "class": ""
+        }
+    },
+    "www.samsung.com": {
+        "article": {
+            "selector": "article strong, article p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article strong",
+            "class": ""
+        },
+        "content": {
+            "selector": "article p",
+            "class": ""
+        }
+    },
+    "viblo.asia": {
+        "article": {
+            "selector": "",
+            "class": ""
+        },
+        "header": {
+            "selector": "",
+            "class": ""
+        },
+        "content": {
+            "selector": "",
+            "class": ""
+        }
+    },
+    "dantri.vn":{
+        "article": {
+            "selector": "article div.singular-content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "",
+            "class": ""
+        },
+        "content": {
+            "selector": "article div.singular-content p",
+            "class": ""
+        }
+    },
+    "dantri.com.vn":{
+        "article": {
+            "selector": "article div.singular-content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "",
+            "class": ""
+        },
+        "content": {
+            "selector": "article div.singular-content p",
+            "class": ""
+        }
+    },
+    "dellonline.vn":{
+        "article": {
+            "selector": "div.article-content h3, div.article-content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.article-content h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.article-content p",
+            "class": ""
+        }
+    },
+    "www.thegioididong.com": {
+        "article": {
+            "selector": "article h3, article p, div.detail-content h4, div.detail-content p",
+            "attr": {}
+        },
+        "header": {
+            "selector": "article h3, div.detail-content h4",
+            "attr": {}
+        },
+        "content": {
+            "selector": "article p, div.detail-content p",
+            "attr": {}
+        }
+    },
+    "cafef.vn": {
+        "article": {
+            "selector": "div.mainContent h3, div.mainContent p",
+            "attr": {}
+        },
+        "header": {
+            "selector": "div.mainContent h3",
+            "attr": {}
+        },
+        "content": {
+            "selector": "div.mainContent p",
+            "attr": {}
+        }
+    },
+    "cellphones.com.vn": {
+        "article": {
+            "selector": "div.entry-content div.content-inner h2, div.entry-content div.content-inner p, div.blog-content h2, div.blog-content p",
+            "attr": {}
+        },
+        "header": {
+            "selector": "div.entry-content div.content-inner h2, div.blog-content h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.entry-content div.content-inner p, div.blog-content p",
+            "class": ""
+        }
+    },
+    "fptshop.com.vn": {
+        "article": {
+            "selector": "div.post__content h3, div.article h3, div.card-body h3, div.article p, div.post__content p, div.card-body p",
+            "attr": {"class" : "article"}
+        },
+        "header": {
+            "selector": "div.post__content h3, div.article h3, div.card-body h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.article p, div.post__content p, div.card-body p",
+            "class": ""
+        }
+    },
+    "didongviet.vn": {
+        "article": {
+            "selector": "div.full-text h3, div.full-text p, article div.article-body h2, article div.article-body p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.full-text h3, article div.article-body h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.full-text p, article div.article-body p",
+            "class": ""
+        }
+    },
+    "viettelstore.vn": {
+        "article": {
+            "selector": "div.content-inner h2 strong, div.content-inner p, div.content-product p span strong, div.content-product p span",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.content-inner h2 strong, div.content-product p span strong",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.content-inner p span, div.content-product p span",
+            "class": ""
+        }
+    },
+    "www.xtmobile.vn": {
+        "article": {
+            "selector": "article h3 strong, article p, div.content-desc h3 div.content-desc p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article h3 strong, div.content-desc h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "article p, div.content-desc p",
+            "class": ""
+        }
+    },
+    "hoanghamobile.com": {
+        "article": {
+            "selector": "div.product-text h3, div.product-text p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.product-text h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.product-text p",
+            "class": ""
+        }
+    },
+    "www.dienmayxanh.com": {
+        "article": {
+            "selector": "div.content-article h3, div.content-article p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.content-article h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.content-article p",
+            "class": ""
+        }
+    },
+    "vnreview.vn": {
+        "article": {
+            "selector": "div#content_vnr h2, div#content_vnr p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div#content_vnr h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div#content_vnr p",
+            "class": ""
+        }
+    },
+    "tinhte.vn": {
+        "article": {
+            "selector": "article.content h2, article.content span.xf-body-paragraph",
+            "class": ""
+        },
+        "header": {
+            "selector": "article.content h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "article.content span.xf-body-paragraph",
+            "class": ""
+        }
+    },
+    "dienmayxanh.com": {
+        "article": {
+            "selector": "",
+            "class": ""
+        },
+        "header": {
+            "selector": "",
+            "class": ""
+        },
+        "content": {
+            "selector": "",
+            "class": ""
+        }
+    },
+    "vietnamnet.vn": {
+        "article": {
+            "selector": "div#maincontent.maincontent p, div#maincontent.maincontent p b",
+            "class": ""
+        },
+        "header": {
+            "selector": "div#maincontent.maincontent p strong, div#maincontent.maincontent p b",
+            "class": ""
+        },
+        "content": {
+            "selector": "div#maincontent.maincontent p",
+            "class": ""
+        }
+    },
+    "genk.vn": {
+        "article": {
+            "selector": "div.knc-content p b, div.knc-content h4, div.knc-content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.knc-content p b, div.knc-content h4",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.knc-content p",
+            "class": ""
+        }
+    },
+    "reviewed.vn": {
+        "article": {
+            "selector": "article h2, article p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "article p",
+            "class": ""
+        }
+    },
+    "vnexpress.vn": {
+        "article": {
+            "selector": "article p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article p strong",
+            "class": ""
+        },
+        "content": {
+            "selector": "article p",
+            "class": ""
+        }
+    },
+    "tuoitre.vn": {
+        "article": {
+            "selector": "div.content h2, div.content p span",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.content h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.content p",
+            "class": ""
+        }
+    },
+    "laodong.vn": {
+        "article": {
+            "selector": "article.article-detail div.art-body p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article.article-detail div.art-body p strong",
+            "class": ""
+        },
+        "content": {
+            "selector": "article.article-detail div.art-body p",
+            "class": ""
+        }
+    },
+    "vtc.vn": {
+        "article": {
+            "selector": "div.edittor-content h3, div.edittor-content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.edittor-content h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.edittor-content p",
+            "class": ""
+        }
+    },
+    "kienthuc.net.vn": {
+        "article": {
+            "selector": "section.main-article div#topContent div.text",
+            "class": ""
+        },
+        "header": {
+            "selector": "",
+            "class": ""
+        },
+        "content": {
+            "selector": "section.main-article div#topContent div.text",
+            "class": ""
+        }
+    },
+    "www.vietnamplus.vn": {
+        "article": {
+            "selector": "div.content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.content p",
+            "class": ""
+        }
+    },
+    "clickbuy.com.vn": {
+        "article": {
+            "selector": "article.area_article h3, article.area_article p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article.area_article h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "article.area_article p",
+            "class": ""
+        }
+    },
+    "phongvu.vn": {
+        "article": {
+            "selector": "article div.entry-content h2, article div.entry-content p, div.productDetail h3, div.productDetail p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article div.entry-content h2, div.productDetail h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "article div.entry-content p, div.productDetail p",
+            "class": ""
+        }
+    },
+    "www.duchuymobile.com": {
+        "article": {
+            "selector": "div.main_news_content div.news_content h3, div.main_news_content div.news_content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.main_news_content div.news_content h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.main_news_content div.news_content p",
+            "class": ""
+        }
+    },
+    "dep.com.vn": {
+        "article": {
+            "selector": "div.single-main-content div.notebox, div.single-main-content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.single-main-content div.notebox",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.single-main-content p",
+            "class": ""
+        }
+    },
+    "bachlongmobile.com": {
+        "article": {
+            "selector": "article div.entry-content h2, article div.entry-content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article div.entry-content h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "article div.entry-content p",
+            "class": ""
+        }
+    },
+    "viendidong.com": {
+        "article": {
+            "selector": "article div.article-footer h3, article div.article-footer p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article div.article-footer h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "article div.article-footer p",
+            "class": ""
+        }
+    },
+    "vietmystore.vn": {
+        "article": {
+            "selector": "div.product-detail h3, div.product-detail p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.product-detail h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.product-detail p",
+            "class": ""
+        }
+    },
+    "mhm.vn": {
+        "article": {
+            "selector": "article div.article-content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article div.article-content p span strong",
+            "class": ""
+        },
+        "content": {
+            "selector": "article div.article-content p",
+            "class": ""
+        }
+    },
+    "vnexpress.net": {
+        "article": {
+            "selector": "article.fck_detail p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article.fck_detail p strong",
+            "class": ""
+        },
+        "content": {
+            "selector": "article.fck_detail p.Normal",
+            "class": ""
+        }
+    },
+    "didongmoi.com.vn": {
+        "article": {
+            "selector": "div.blog-single-main h2, div.blog-single-main div span",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.blog-single-main h2 span",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.blog-single-main div span",
+            "class": ""
+        }
+    },
+    "www.24h.com.vn": {
+        "article": {
+            "selector": "article#article_body article p strong, article#article_body article p",
+            "class": ""
+        },
+        "header": {
+            "selector": "article#article_body article p strong",
+            "class": ""
+        },
+        "content": {
+            "selector": "article#article_body article p",
+            "class": ""
+        }
+    },
+    "zingnews.vn": {
+        "article": {
+            "selector": "div.the-article-body h3, div.the-article-body p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.the-article-body h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.the-article-body p",
+            "class": ""
+        }
+    },
+    "gearvn.com": {
+        "article": {
+            "selector": "div.article div.body-content h2, div.article div.body-content p, div#product_content_detail h3, div#product_content_detail p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.article div.body-content h2, div#product_content_detail h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.article div.body-content p, div#product_content_detail p",
+            "class": ""
+        }
+    },
+    "trungtran.vn": {
+        "article": {
+            "selector": "div.tk-content div.news-exc h2, div.tk-content div.news-exc p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.tk-content div.news-exc h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.tk-content div.news-exc p",
+            "class": ""
+        }
+    },
+    "laptop88.vn": {
+        "article": {
+            "selector": "div.content-text h2, div.content-text p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.content-text h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.content-text p",
+            "class": ""
+        }
+    },
+    "thinkview.vn": {
+        "article": {
+            "selector": "div#posContent h2, div#posContent p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div#posContent h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div#posContent p",
+            "class": ""
+        }
+    },
+    "samfans.vn": {
+        "article": {
+            "selector": "div.post-body h3, div.post-body p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.post-body h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.post-body p",
+            "class": ""
+        }
+    },
+    "mobileworld.com.vn": {
+        "article": {
+            "selector": "div.post-entry h3, div.post-entry p, div.entry-desc h3, div.entry-desc p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.post-entry h3, div.entry-desc h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.post-entry p, div.entry-desc p",
+            "class": ""
+        }
+    },
+    "www.anphatpc.com.vn": {
+        "article": {
+            "selector": "div.article-detail h2, div.article-detail p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.article-detail h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.article-detail p",
+            "class": ""
+        }
+    },
+    "thanhnien.vn": {
+        "article": {
+            "selector": "div.details__content h2, div.details__content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.details__content h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.details__content p",
+            "class": ""
+        }
+    },
+    "tiki.vn": {
+        "article": {
+            "selector": "div.content p",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.content p strong",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.content p",
+            "class": ""
+        }
+    },
+    "bnews.vn": {
+        "article": {
+            "selector": "div.post-ct-entry p, div.post-ct-entry p strong",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.post-ct-entry p strong",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.post-ct-entry p",
+            "class": ""
+        }
+    }, 
+    "toplist.vn": {
+        "article": {
+            "selector": "div.post_content div.item_dsp_row div.media-body p, div.post_content div.item_dsp_row div.media-body h3",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.post_content div.item_dsp_row div.media-body h3",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.post_content div.item_dsp_row div.media-body p",
+            "class": ""
+        }
+    }, 
+    "dulich.tuoitre.vn": {
+        "article": {
+            "selector": "div.content p, div.content h3",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.content p b",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.content p",
+            "class": ""
+        }
+    }, 
+    "kenh14.vn": {
+        "article": {
+            "selector": "div.knc-content p, div.knc-content h2",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.knc-content h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.knc-content p",
+            "class": ""
+        }
+    }, 
+    "blogvn.org": {
+        "article": {
+            "selector": "div.post-content p, div.post-content h2",
+            "class": ""
+        },
+        "header": {
+            "selector": "div.post-ct-entry h2",
+            "class": ""
+        },
+        "content": {
+            "selector": "div.post-content p",
+            "class": ""
+        }
+    }
+
+}

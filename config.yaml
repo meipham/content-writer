@@ -1,0 +1,9 @@
+g2t_api: http://172.29.13.24:35216/amr2text
+t2g_api: http://172.28.0.23:35215/t2g_v2
+nlpcore: 
+    host: http://172.28.0.23
+    port: 35474
+vncorenlp: 
+    host: http://172.28.0.23
+    port: 20215
+
